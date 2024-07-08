@@ -6,7 +6,7 @@
 ## Overview
 
 As part of the <b>CS1050 - Computer Organization and Digital Design</b> module,
-This lab involves designing and developing a 4-bit processor capable of executing four specific instructions. By completing this lab, you will achieve the following objectives:
+This project involves designing and developing a 4-bit processor capable of executing four specific instructions. By completing this project, we were able to:
 
 <ul>
     <li>Design and develop a 4-bit arithmetic unit that can add and subtract signed integers.</li>
@@ -63,10 +63,14 @@ This lab involves designing and developing a 4-bit processor capable of executin
 </ul>
 
 
-The following table contains the list of functions the shell should support
-alongside with a brief description of what they are supposed to do.
+The following table contains Set
+of instructions supported by the nanoprocessor
 
 <img src="assets/Screenshot 2024-07-06 at 17.27.42.png" alt="Awesome README Templates" />
+
+Block diagram of the nanoprocessor is given below
+
+<img src="assets/Screenshot 2024-07-08 at 21.44.40.png" alt="Awesome README Templates" />
 
 You can see in the following screenshots how my developed operating system works for those commands giving the system information of the machine. If you are also supposed to use this project, make sure to change the name in the **'init.c'** file.
 
